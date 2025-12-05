@@ -1,2 +1,6 @@
 # Chaoxing-All-in-One-Task-Quick-Overview-
 Chaoxing All-in-One Task Quick Overview（学习通作业考试全能速览）
+这是一个适配学习通的脚本，主要功能：
+1. 在学习通首页导航栏新增「全部作业」「全部考试」快捷按钮
+2. 点击按钮可查看对应的任务列表，支持搜索筛选作业/考试
+3. 版本1.0已修复页面空白的显示异常问题
